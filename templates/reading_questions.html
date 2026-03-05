@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+{% block title %}Reading {{ year }} – Questions – Adhrit Naplan App{% endblock %}
+{% block content %}
+  <div class="viewer-header">
+    <h1>📖 Reading {{ year }} – Questions</h1>
+    <div class="viewer-actions">
+      {% if magazine_filename %}
+        <a href="{{ url_for('pdf_viewer', url=url_for('view_reading_pdf', filename=magazine_filename), title='Magazine ' ~ year) }}" class="back-btn">📄 Magazine</a>
+      {% endif %}
+      <a href="{{ url_for('pdf_viewer', url=url_for('view_reading_pdf', filename=questionnaire_filename), title='Questionnaire PDF') }}" class="back-btn">📄 Question PDF</a>
+      <a href="{{ url_for('reading') }}" class="back-btn">← Back to Reading</a>
+    </div>
+  </div>
+  <p class="reading-intro">Answer below. The magazine and original question PDF are linked above if you need them.</p>
+  {% for section in sections %}
+    {% set section_idx = loop.index0 %}
+    <section class="year-group reading-section">
+      <h3 class="section-title">{{ section.title }}</h3>
+      <ol class="questions-list">
+        {% for q in section.questions %}
+          <li class="question-item">
+            <p class="question-text"><strong>{{ q.number }}.</strong> {{ q.text }}</p>
+            {% if q.question_type == 'multiple_choice' and q.options %}
+              <ul class="options-list" role="group" aria-label="Choose one">
+                {% for opt in q.options %}
+                  <li>
+                    <label class="option-label">
+                      <input type="radio" name="s{{ section_idx }}_q{{ q.number }}" value="{{ loop.index }}" class="option-radio">
+                      <span>{{ opt }}</span>
+                    </label>
+                  </li>
+                {% endfor %}
+              </ul>
+            {% elif q.question_type == 'fill_blank' %}
+              <div class="answer-input-wrap">
+                <label class="input-label">Your answer</label>
+                <input type="text" name="s{{ section_idx }}_q{{ q.number }}" class="answer-input answer-input-text" placeholder="Write your answer…" autocomplete="off">
+              </div>
+            {% elif q.question_type == 'number_in_box' %}
+              <div class="answer-input-wrap">
+                <label class="input-label">Number</label>
+                <input type="number" name="s{{ section_idx }}_q{{ q.number }}" class="answer-input answer-input-number" placeholder="0" min="0" step="1" autocomplete="off">
+              </div>
+            {% elif q.options %}
+              <ul class="options-list" role="group" aria-label="Choose one">
+                {% for opt in q.options %}
+                  <li>
+                    <label class="option-label">
+                      <input type="radio" name="s{{ section_idx }}_q{{ q.number }}" value="{{ loop.index }}" class="option-radio">
+                      <span>{{ opt }}</span>
+                    </label>
+                  </li>
+                {% endfor %}
+              </ul>
+            {% else %}
+              <p class="no-options">(See question PDF for this one.)</p>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ol>
+    </section>
+  {% endfor %}
+{% endblock %}

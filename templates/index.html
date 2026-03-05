@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block title %}Adhrit Naplan App – Home{% endblock %}
+{% block content %}
+  <div class="hero">
+    <h1>Adhrit Naplan App</h1>
+    <p>Practice NAPLAN by subject. Pick a section and start with year-wise assignments.</p>
+  </div>
+  <div class="section-grid">
+    <a href="{{ url_for('writing') }}" class="section-card">
+      <span class="icon">✍️</span>
+      <h2>Writing</h2>
+      <p>Year-wise writing prompts and assignments</p>
+    </a>
+    <a href="{{ url_for('reading') }}" class="section-card">
+      <span class="icon">📖</span>
+      <h2>Reading</h2>
+      <p>Reading practice (coming soon)</p>
+    </a>
+    <a href="{{ url_for('language_conventions') }}" class="section-card">
+      <span class="icon">✏️</span>
+      <h2>Language Conventions</h2>
+      <p>Spelling & grammar (coming soon)</p>
+    </a>
+    <a href="{{ url_for('numeracy') }}" class="section-card">
+      <span class="icon">🔢</span>
+      <h2>Numeracy</h2>
+      <p>Maths practice (coming soon)</p>
+    </a>
+  </div>
+{% endblock %}

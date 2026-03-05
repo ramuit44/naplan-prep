@@ -1,0 +1,452 @@
+[
+  {
+    "title": "Page 1",
+    "questions": []
+  },
+  {
+    "title": "Page 2",
+    "questions": []
+  },
+  {
+    "title": "Page 3",
+    "questions": [
+      {
+        "number": "1",
+        "text": "Which birds can open seeds?",
+        "options": [
+          "galahs",
+          "cormorants",
+          "spoonbills",
+          "kookaburras"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "2",
+        "text": "How does a spoonbill find food?",
+        "options": [
+          "It feels the food.",
+          "It hears the food.",
+          "It tastes the food.",
+          "It smells the food."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "3",
+        "text": "Galahs and boobooks both",
+        "options": [
+          "eat the same food.",
+          "have curved beaks.",
+          "eat meat with their beaks.",
+          "have strong, pointed beaks."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "4",
+        "text": "The pictures of the skulls are used to show",
+        "options": [
+          "the age of the bird.",
+          "the size of the bird.",
+          "the shape of the beak.",
+          "the strength of the beak."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 4",
+    "questions": [
+      {
+        "number": "5",
+        "text": "They also use their beaks as digging sticks to help them break into termite nests. Which word tells the reader extra information has been added?",
+        "options": [
+          "use",
+          "also",
+          "into",
+          "their"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "6",
+        "text": "What did Miss Rossi plan to do once the recycling box was full?",
+        "options": [
+          "give the things to the children",
+          "use the things in the classroom",
+          "take the box to the recycling centre",
+          "share the things with the other teachers"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "7",
+        "text": "What did Rosila bring to school?",
+        "options": [
+          "jam jars",
+          "drink cans",
+          "old newspapers",
+          "cardboard tubes"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "8",
+        "text": "Mani brought some things to put in the recycling box. What were the things made from?",
+        "options": [
+          "glass",
+          "paper",
+          "metal",
+          "plastic"
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 5",
+    "questions": [
+      {
+        "number": "9",
+        "text": "Everyone brought something. What does this sentence do?",
+        "options": [
+          "It begins a list.",
+          "It finishes a list.",
+          "It shows a new idea.",
+          "It joins two ideas together."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "10",
+        "text": "Why was the recycling box empty the next morning?",
+        "options": [
+          "The teachers had taken the things to use themselves.",
+          "Miss Rossi had given the things to the other teachers.",
+          "The cleaners had emptied the box into the recycling bin.",
+          "The children had taken the things to the recycling centre."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "11",
+        "text": "This story was most likely written for",
+        "options": [
+          "adults.",
+          "babies.",
+          "children.",
+          "teenagers."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "12",
+        "text": "Ants hear with their",
+        "options": [
+          "ocelli.",
+          "antennae.",
+          "mandibles.",
+          "hooked claws."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 6",
+    "questions": [
+      {
+        "number": "13",
+        "text": "What is one way ants use their mandibles?",
+        "options": [
+          "to smell food",
+          "to sense danger",
+          "to pick things up",
+          "to talk to other ants"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "14",
+        "text": "Some ants do not have",
+        "options": [
+          "a stinger.",
+          "mandibles.",
+          "hooked claws.",
+          "compound eyes."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "15",
+        "text": "Ants have two types of eyes so they can",
+        "options": [
+          "sense motion and light.",
+          "sense sounds and smells.",
+          "see all around themselves.",
+          "see further in the distance."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "16",
+        "text": "In what way are mandibles and stingers alike?",
+        "options": [
+          "Both help ants to find food.",
+          "Both help ants to communicate.",
+          "Both help ants to defend themselves.",
+          "Both help ants to sense their environment."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 7",
+    "questions": [
+      {
+        "number": "17",
+        "text": "(OH-SE-LI) This word is written like this to show",
+        "options": [
+          "the plural of ocelli.",
+          "the correct way to say ocelli.",
+          "a different way to spell ocelli.",
+          "how many letters are in ocelli."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "18",
+        "text": "Why was the boy’s father worried?",
+        "options": [
+          "His son was lonely.",
+          "His son was not strong enough.",
+          "His son was always getting lost.",
+          "His son had never had any problems."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "19",
+        "text": "Why did the father send his son into the forest?",
+        "options": [
+          "He wanted to punish his son.",
+          "He was fighting with his son.",
+          "He was too old to go himself.",
+          "He wanted his son to learn."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "20",
+        "text": "What did the boy do first when the cart broke?",
+        "options": [
+          "He called for help.",
+          "He cried to himself.",
+          "He blamed his father.",
+          "He walked back home."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 8",
+    "questions": [
+      {
+        "number": "21",
+        "text": "Which word best describes the boy’s father in this story?",
+        "options": [
+          "lazy",
+          "cruel",
+          "wise",
+          "funny"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "22",
+        "text": "What is the main message of this story?",
+        "options": [
+          "Take care of the environment.",
+          "Family is the most important thing.",
+          "Working hard makes you a better person.",
+          "It is important to know how to solve problems."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "23",
+        "text": "Did the father know a person called Necessity? Give a reason for your answer.",
+        "options": [],
+        "question_type": "fill_blank"
+      },
+      {
+        "number": "24",
+        "text": "I know lots of kids say they’re not interested in competitions ... What reason does Liz give for this?",
+        "options": [
+          "They don’t like any activity that involves exercise.",
+          "They don’t have enough confidence in themselves.",
+          "They haven’t competed in any competitions before.",
+          "They haven’t experienced what it’s like to come first."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 9",
+    "questions": [
+      {
+        "number": "25",
+        "text": "Which of these points do Liz and Sam both make?",
+        "options": [
+          "Kids should exercise.",
+          "Kids should eat vegetables.",
+          "Kids should try to win more.",
+          "Kids should be outside more."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "26",
+        "text": "Liz suggests that kids who don’t like competitions should",
+        "options": [
+          "be made to compete anyway.",
+          "be given high-quality training.",
+          "let others compete in their place.",
+          "be allowed to play a different sport."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "27",
+        "text": "What is one reason Liz gives for saying a garden is a really bad idea?",
+        "options": [
+          "Some students will be left out.",
+          "Some students don’t like getting dirty.",
+          "Some students don’t enjoy being outside.",
+          "Some students already know how to garden."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "28",
+        "text": "People always say kids don’t get enough exercise. Why does Liz say this?",
+        "options": [
+          "to support her opinion",
+          "to explain a common belief",
+          "to disprove other arguments",
+          "to show she’s considering other arguments"
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 10",
+    "questions": [
+      {
+        "number": "29",
+        "text": "And think about it: what helps you to be good at sport? Sam asks this question to",
+        "options": [
+          "change the topic.",
+          "summarise his ideas.",
+          "introduce his next point.",
+          "find an answer to the question."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "30",
+        "text": "Have you ever had an idea that just pops into your head out of nowhere? Who is Tim asking?",
+        "options": [
+          "Elvis",
+          "the reader",
+          "his brother",
+          "Mrs Samson"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "31",
+        "text": "What is Tim’s secret plan?",
+        "options": [
+          "to sell pictures of thylacines",
+          "to make a model of a thylacine",
+          "to train Elvis to find a thylacine",
+          "to make Elvis look like a thylacine"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "32",
+        "text": "But I feel funny about saying I own him ... What reason does Tim give for feeling this way?",
+        "options": [
+          "Elvis is really Malcolm’s dog.",
+          "Tim thinks dogs cannot be owned.",
+          "All the family helps to look after Elvis.",
+          "Elvis is much older than Tim in dog years."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 11",
+    "questions": [
+      {
+        "number": "33",
+        "text": "Why does Tim want his plan to be secret?",
+        "options": [
+          "He wants to trick everyone.",
+          "He is not really going to do it.",
+          "He doesn’t want Greer to copy him.",
+          "He thinks people will make fun of him."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "34",
+        "text": "What does this text show us about Tim?",
+        "options": [
+          "He has good friends.",
+          "He has a good imagination.",
+          "He is good at drawing animals.",
+          "He is good at running long distances."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "35",
+        "text": "The text comes from a book that is meant to be funny. Give an example from the text that suggests humour. Explain how this could be funny.",
+        "options": [],
+        "question_type": "fill_blank"
+      }
+    ]
+  },
+  {
+    "title": "Page 12",
+    "questions": [
+      {
+        "number": "P1",
+        "text": "How does this story end?",
+        "options": [
+          "Amon eats the fish.",
+          "The fish eats Amon.",
+          "Amon saves his ship.",
+          "The fish breaks Amon’s ship."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "P2",
+        "text": "This story is not true. Use information from the text to give a reason for this opinion.",
+        "options": [],
+        "question_type": "fill_blank"
+      }
+    ]
+  }
+]

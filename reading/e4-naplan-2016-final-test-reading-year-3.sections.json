@@ -1,0 +1,491 @@
+[
+  {
+    "title": "Page 1",
+    "questions": []
+  },
+  {
+    "title": "Page 2",
+    "questions": [
+      {
+        "number": "1",
+        "text": "What colour is the cat’s ball?",
+        "options": [
+          "green",
+          "white",
+          "orange",
+          "black"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "2",
+        "text": "What does Boots have a lot of?",
+        "options": [
+          "boxes",
+          "cats",
+          "carrots",
+          "toys"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "3",
+        "text": "Boots likes to visit",
+        "options": [
+          "a fish pond.",
+          "the pet store.",
+          "Mina and Jack’s house.",
+          "Grandma and Grandpa’s house."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "4",
+        "text": "Who gives Boots treats?",
+        "options": [
+          "Mina",
+          "Grandma",
+          "Jack",
+          "Grandpa"
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 3",
+    "questions": [
+      {
+        "number": "5",
+        "text": "Which of these is a picture of a toy in the text?",
+        "options": [
+          "Carrot-shaped toy",
+          "Fish-shaped toy",
+          "House-shaped toy",
+          "Cat-shaped toy"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "6",
+        "text": "What is the most likely reason the cat is named Boots?",
+        "options": [
+          "He looks like he has boots on.",
+          "He eats treats that look like boots.",
+          "He has toys that look like boots.",
+          "He gets into boots if they are left out."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "7",
+        "text": "Seahorses got their name because they",
+        "options": [
+          "move like horses.",
+          "eat like horses.",
+          "breathe like horses.",
+          "look like horses."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "8",
+        "text": "Seahorse eggs are kept",
+        "options": [
+          "on coral.",
+          "in a pouch.",
+          "in the seaweed.",
+          "on the sand."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 4",
+    "questions": [
+      {
+        "number": "9",
+        "text": "What does a seahorse use to attach itself to seaweed?",
+        "options": [
+          "its mouth",
+          "its teeth",
+          "its fins",
+          "its tail"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "10",
+        "text": "Which question is answered in the last paragraph?",
+        "options": [
+          "What are seahorses?",
+          "Where do seahorses live?",
+          "What do seahorses eat?",
+          "How do seahorses move around?"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "11",
+        "text": "The main reason for the picture is to show",
+        "options": [
+          "what seahorses eat.",
+          "what seahorses look like.",
+          "how seahorses move.",
+          "where seahorses live."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "12",
+        "text": "Bamboo is a type of",
+        "options": [
+          "tree.",
+          "wood.",
+          "bush.",
+          "grass."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 5",
+    "questions": [
+      {
+        "number": "13",
+        "text": "According to the text, one way bamboo is amazing is that",
+        "options": [
+          "it can grow extremely fast.",
+          "it grows near gum trees.",
+          "it comes in many sizes.",
+          "it grows anywhere."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "14",
+        "text": "Which activity uses bamboo as scaffolding?",
+        "options": [
+          "plumbing",
+          "building",
+          "cooking",
+          "sailing"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "15",
+        "text": "Bamboo fibres are used in the production of",
+        "options": [
+          "paper.",
+          "furniture.",
+          "musical instruments.",
+          "boats."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "16",
+        "text": "Fabric made from bamboo is",
+        "options": [
+          "lumpy.",
+          "scratchy.",
+          "cottony.",
+          "clingy."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 6",
+    "questions": [
+      {
+        "number": "17",
+        "text": "According to the text, which part of a bicycle can be made from bamboo?",
+        "options": [
+          "the frame",
+          "the wheels",
+          "the pedals",
+          "the seat"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "18",
+        "text": "The main purpose of this text is",
+        "options": [
+          "to encourage people to use bamboo more often.",
+          "to give interesting facts and uses for bamboo.",
+          "to list everything that can be made from bamboo.",
+          "to outline where bamboo is mainly grown and used."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "19",
+        "text": "From her letter, Alex sounds like someone who is",
+        "options": [
+          "lonely.",
+          "bored.",
+          "enthusiastic.",
+          "boastful."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "20",
+        "text": "Alex tries to persuade Amy to come and visit Coober Pedy by",
+        "options": [
+          "listing all the things they can do together.",
+          "pointing out how far away Coober Pedy is from the city.",
+          "reminding Amy that she has not visited in a long time.",
+          "explaining that Alex’s mum and dad think it is a good idea."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 7",
+    "questions": [
+      {
+        "number": "21",
+        "text": "According to the text, what is noodling?",
+        "options": [
+          "swimming in an underground pool",
+          "searching for opals",
+          "riding camels",
+          "living in the outback"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "22",
+        "text": "Where does Alex suggest they go when it is hot?",
+        "options": [
+          "the city",
+          "camping",
+          "Mani’s house",
+          "the kangaroo orphanage"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "23",
+        "text": "When Alex talks about the city she is referring to",
+        "options": [
+          "anywhere far away from Coober Pedy.",
+          "a place where Mum and Dad used to live.",
+          "a place they could visit together.",
+          "the place where Amy lives."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "24",
+        "text": "Alex makes a wish at the end of the letter. This wish is most likely that",
+        "options": [
+          "Amy’s family will come to live in Coober Pedy.",
+          "Amy will be able to come and stay for the holidays.",
+          "it will not be too hot during the holidays.",
+          "Alex and Amy will find an opal."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 8",
+    "questions": [
+      {
+        "number": "25",
+        "text": "Which of these is an exaggeration?",
+        "options": [
+          "... Coober Pedy is a long way from the city, but I'm sure you'll love it.",
+          "Some people think there is nothing to do in the outback.",
+          "I'm sure there aren't any underground houses in the city.",
+          "... you'll have more fun than you will ever have in your entire life!"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "26",
+        "text": "Today he was wearing a funny white beard and a lumpy, brown coat. (paragraph 1) This sentence shows that Mr Frank",
+        "options": [
+          "feels cold.",
+          "is very old.",
+          "is in a costume.",
+          "works at the library."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "27",
+        "text": "Mr Frank tries to show that every book is alive by",
+        "options": [
+          "telling silly jokes.",
+          "acting out stories.",
+          "doing magic tricks.",
+          "reading stories aloud."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "28",
+        "text": "When the children laugh at the white bird in paragraph 3, Mr Frank is",
+        "options": [
+          "happy.",
+          "angry.",
+          "surprised.",
+          "disappointed."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 9",
+    "questions": [
+      {
+        "number": "29",
+        "text": "The cowboy described in paragraph 4 is probably a",
+        "options": [
+          "doll.",
+          "puppet.",
+          "picture.",
+          "daydream."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "30",
+        "text": "The exclamation marks (!) in paragraph 4 show that the narrator is",
+        "options": [
+          "angry.",
+          "scared.",
+          "thankful.",
+          "amazed."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "31",
+        "text": "But as we walked, a small thrill was rising inside me like a bird taking off. (last paragraph) This means the narrator",
+        "options": [
+          "is worried about opening the worn-looking book.",
+          "is happy to finish story time at the library.",
+          "is wanting to tell her mum about the book.",
+          "is excited about reading the recommended story."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "32",
+        "text": "Which word best describes Mr Frank in the text?",
+        "options": [
+          "fierce",
+          "brave",
+          "playful",
+          "watchful"
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 10",
+    "questions": [
+      {
+        "number": "33",
+        "text": "What word could be used instead of determined in the first paragraph?",
+        "options": [
+          "described",
+          "explained",
+          "understood",
+          "decided"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "34",
+        "text": "Microbats are most likely to be found living",
+        "options": [
+          "near a source of fresh water.",
+          "where there are large trees.",
+          "close to houses and shops.",
+          "where fruit trees are growing."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "35",
+        "text": "Some bats are called flying foxes because of their",
+        "options": [
+          "hunting behaviour.",
+          "speed.",
+          "size.",
+          "appearance."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "36",
+        "text": "The text suggests the Kitti’s hog-nosed bat is the world’s",
+        "options": [
+          "hairiest bat.",
+          "noisiest bat.",
+          "lightest bat.",
+          "fastest bat."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 11",
+    "questions": [
+      {
+        "number": "37",
+        "text": "What is one main difference between all microbats and all megabats?",
+        "options": [],
+        "question_type": "fill_blank"
+      },
+      {
+        "number": "38",
+        "text": "Which one of these shows the main idea of both sections of the text?",
+        "options": [
+          "bat behaviour — examples of different bat species",
+          "bat appearance — facts about particular bat species",
+          "bat classification — interesting facts about bats",
+          "bat habitats — examples of unusual species of bats"
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 12",
+    "questions": [
+      {
+        "number": "P1",
+        "text": "What did Sara plan to do on Saturday morning?",
+        "options": [
+          "homework",
+          "play football",
+          "go horseriding",
+          "make breakfast"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "P2",
+        "text": "According to the text, what was Sara’s mistake?",
+        "options": [],
+        "question_type": "fill_blank"
+      }
+    ]
+  }
+]

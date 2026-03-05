@@ -1,0 +1,464 @@
+[
+  {
+    "title": "Page 1",
+    "questions": []
+  },
+  {
+    "title": "Page 2",
+    "questions": [
+      {
+        "number": "1",
+        "text": "Why is this animal called a turtle frog?",
+        "options": [
+          "It is a turtle that eats frogs.",
+          "It is a frog that lives with turtles.",
+          "It is a frog that looks like a turtle.",
+          "It is a turtle that moves like a frog."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "2",
+        "text": "The turtle frog’s head is",
+        "options": [
+          "strong.",
+          "small.",
+          "long.",
+          "big."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "3",
+        "text": "Turtle frogs use their strong legs to",
+        "options": [
+          "eat.",
+          "dig.",
+          "run.",
+          "jump."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "4",
+        "text": "Why is it unusual to see a turtle frog?",
+        "options": [
+          "It moves too quickly.",
+          "It often hides in its nest.",
+          "It stays mainly underground.",
+          "It is too small for people to see."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 3",
+    "questions": [
+      {
+        "number": "5",
+        "text": "What does the text tell us about termites?",
+        "options": [
+          "They live in large groups.",
+          "They eat one meal a day.",
+          "They move nests often.",
+          "They live in trees."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "6",
+        "text": "What do the illustrations show?",
+        "options": [
+          "what the turtle frog looks like",
+          "how the turtle frog builds a nest",
+          "which leaves the turtle frog eats",
+          "where the turtle frog normally lives"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "7",
+        "text": "Pia wants a rabbit as a classroom pet. What is one reason she gives?",
+        "options": [
+          "Rabbits don’t eat much.",
+          "Rabbits are cheap to buy.",
+          "Rabbits don’t make a noise.",
+          "Rabbits are simple to care for."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "8",
+        "text": "Who knows where to find a blue-tongue lizard?",
+        "options": [
+          "Adrian",
+          "Keri",
+          "Tom",
+          "Mr Finch"
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 4",
+    "questions": [
+      {
+        "number": "9",
+        "text": "Class 4F may not keep a blue-tongue lizard because",
+        "options": [
+          "it might bite the students.",
+          "they do not have a permit.",
+          "their teacher does not like lizards.",
+          "it would be too cold in the classroom."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "10",
+        "text": "Pia says, He means it's cruel when birds aren't free and can't fly around. Why does she say this?",
+        "options": [
+          "to help Tom understand Nadim",
+          "to help Nadim understand Tom",
+          "to support Nadim's opinion",
+          "to challenge Tom's opinion"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "11",
+        "text": "What does Mr Finch do in this text?",
+        "options": [
+          "He says what pet he wants.",
+          "He agrees with the students' ideas.",
+          "He lets the students share their ideas.",
+          "He tells the students about different pets."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 5",
+    "questions": [
+      {
+        "number": "12",
+        "text": "The text says a game of SPUD needs at least",
+        "options": [
+          "four players.",
+          "five players.",
+          "six players.",
+          "seven players."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "13",
+        "text": "The winner is the player who",
+        "options": [
+          "catches the ball first.",
+          "does not spell SPUD.",
+          "is the first to spell SPUD.",
+          "throws the ball the furthest."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "14",
+        "text": "When the player who is It calls your name, what must you do first?",
+        "options": [
+          "take three steps",
+          "throw the ball",
+          "get the ball",
+          "run away"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "15",
+        "text": "Which of these changes would make the game last longer?",
+        "options": [
+          "spelling a word with more letters",
+          "making the playing area smaller",
+          "playing with fewer people",
+          "having more than one It"
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 6",
+    "questions": [
+      {
+        "number": "16",
+        "text": "Which picture best matches Rule 5?",
+        "options": [],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "17",
+        "text": "You could even play SPUD on a netball court. Where would this information belong in this text?",
+        "options": [
+          "What you need",
+          "Setting up a playing area",
+          "Aim of the game",
+          "Rules of the game"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "18",
+        "text": "Who wrote the note?",
+        "options": [
+          "Rosie",
+          "Rosie’s mum",
+          "a music teacher",
+          "the school principal"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "19",
+        "text": "Rosie’s note is shown in the text. This helps to",
+        "options": [
+          "make the reader feel sorry for Rosie.",
+          "tell the reader that Rosie made up this story.",
+          "make the reader feel more part of Rosie’s story.",
+          "tell the reader something Rosie doesn’t know."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 7",
+    "questions": [
+      {
+        "number": "20",
+        "text": "The purpose of the meeting is to let children and parents know",
+        "options": [
+          "who the music teacher will be.",
+          "who has been picked for the band.",
+          "what the band members will have to do.",
+          "what progress the band members have made."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "21",
+        "text": "What is Rosie’s mum most likely to think about Rosie being in the band?",
+        "options": [
+          "This will be easy for her.",
+          "I am sure she will be successful.",
+          "I think she is making a mistake.",
+          "She needs to think about this carefully."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "22",
+        "text": "'It certainly will be a commitment.' Why does Rosie’s mum say this?",
+        "options": [
+          "to warn Rosie",
+          "to support Rosie",
+          "to make Rosie feel proud",
+          "to make Rosie feel guilty"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "23",
+        "text": "Rosie is best described as a person who is",
+        "options": [
+          "thoughtful.",
+          "confident.",
+          "relaxed.",
+          "patient."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 8",
+    "questions": [
+      {
+        "number": "24",
+        "text": "When he first saw the Naadam festival horseraces, Angus felt",
+        "options": [
+          "disappointed that the jockeys were children.",
+          "bored because the races took so long.",
+          "inspired to take part in the races.",
+          "nervous about the races."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "25",
+        "text": "After he returned to Australia, ... The second paragraph is about Angus’s",
+        "options": [
+          "home town.",
+          "exercise routine.",
+          "racing experience.",
+          "family background."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "26",
+        "text": "Angus’s Mongolian friends helped him to",
+        "options": [
+          "take part in the Mongolian races.",
+          "find his way around Mongolia.",
+          "train for the Mongolian races.",
+          "plan his trip to Mongolia."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "27",
+        "text": "The way this text is written leads the reader to",
+        "options": [
+          "feel jealous of Angus.",
+          "feel sorry for Angus.",
+          "be amused by Angus.",
+          "admire Angus."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 9",
+    "questions": [
+      {
+        "number": "28",
+        "text": "Write the numbers 1 to 5 in the boxes to show the order of events in the text. The first one (1) has been done for you.\nAngus decided to compete in the Naadam festival.\nAngus travelled to Mongolia with his family for a holiday.\nAngus won the Young Adventurer of the Year Award.\nAngus trained after school.\nAngus competed in two horseraces in Mongolia.",
+        "options": [],
+        "question_type": "number_in_box"
+      },
+      {
+        "number": "29",
+        "text": "Which idea best matches this text?",
+        "options": [
+          "There is no place like home.",
+          "Fight for what you believe in.",
+          "Good things come to those who wait.",
+          "Dreams can come true if you work hard."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "30",
+        "text": "Why did Angus receive the Young Adventurer of the Year Award?",
+        "options": [
+          "He won a competition.",
+          "He made a tough decision.",
+          "He achieved a difficult goal.",
+          "He did something to help others."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 10",
+    "questions": [
+      {
+        "number": "31",
+        "text": "What is another suitable title for this text?",
+        "options": [
+          "The naughty platypus",
+          "Where to find a platypus",
+          "The day we saw a platypus",
+          "Why the platypus has a flat tail"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "32",
+        "text": "In line 5 of the text, the arrow of water refers to",
+        "options": [
+          "the shadows of the trees on the water.",
+          "the shape of the ripples on the water.",
+          "the sound of the flowing water.",
+          "the speed of the flowing water."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "33",
+        "text": "What helped the children to see the platypus better?",
+        "options": [
+          "It kept flipping its tail.",
+          "It moved into a sunny place.",
+          "It climbed up onto the riverbank.",
+          "It put its head out of the water."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "34",
+        "text": "'No white tip. No ears. And shy.' (paragraph 4) One reason this information is in three short sentences is that Daniel’s dad is",
+        "options": [
+          "listing three features.",
+          "memorising three facts.",
+          "describing three animals.",
+          "answering three questions."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 11",
+    "questions": [
+      {
+        "number": "35",
+        "text": "In this text, all of the characters show they are",
+        "options": [
+          "kind.",
+          "brave.",
+          "generous.",
+          "persistent."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "36",
+        "text": "Who is telling this story?",
+        "options": [
+          "Daniel",
+          "Mr Beatty",
+          "Daniel’s dad",
+          "Daniel’s friend"
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 12",
+    "questions": [
+      {
+        "number": "P1",
+        "text": "Where are Riko and Sam?",
+        "options": [
+          "in a camp",
+          "on a track",
+          "by a bush",
+          "up a tree"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "P2",
+        "text": "Write the numbers 1 to 4 in the boxes to show the order of what happened in the text. The first one (1) has been done for you.",
+        "options": [],
+        "question_type": "number_in_box"
+      }
+    ]
+  }
+]

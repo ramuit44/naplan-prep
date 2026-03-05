@@ -1,0 +1,464 @@
+[
+  {
+    "title": "Page 1",
+    "questions": []
+  },
+  {
+    "title": "Page 2",
+    "questions": [
+      {
+        "number": "1",
+        "text": "Earthworms like soil that is",
+        "options": [
+          "hot and wet.",
+          "cool and crunchy.",
+          "dark and damp.",
+          "light and airy."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "2",
+        "text": "Earthworms have",
+        "options": [
+          "no arms, legs or eyes.",
+          "arms, legs and eyes.",
+          "arms and legs only.",
+          "no arms or legs, but they do have eyes."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "3",
+        "text": "Which animals eat earthworms?",
+        "options": [
+          "silkworms",
+          "slaters",
+          "snakes",
+          "bees"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "4",
+        "text": "Earthworms use the hairs on their bodies to",
+        "options": [
+          "eat.",
+          "move.",
+          "grow.",
+          "breathe."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 3",
+    "questions": [
+      {
+        "number": "5",
+        "text": "Why are earthworms important?",
+        "options": [
+          "They are tasty to eat.",
+          "They make the soil healthy.",
+          "They live in dark, damp places.",
+          "They have stiff hair."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "6",
+        "text": "The main purpose of the text is to tell the reader",
+        "options": [
+          "where earthworms live.",
+          "how earthworms make tunnels.",
+          "when earthworms wriggle.",
+          "why earthworms are needed."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "7",
+        "text": "Why are eggs popular?",
+        "options": [
+          "They float in water.",
+          "They are simple to cook.",
+          "They have strong shells.",
+          "They have yellow yolks."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 4",
+    "questions": [
+      {
+        "number": "8",
+        "text": "According to the text, which food is made using eggs?",
+        "options": [
+          "rice",
+          "milk",
+          "butter",
+          "spaghetti"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "9",
+        "text": "What is another name for the eggwhite?",
+        "options": [
+          "albumen",
+          "mineral",
+          "protein",
+          "water"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "10",
+        "text": "What makes a yolk dark yellow?",
+        "options": [
+          "the hen’s food",
+          "the age of the egg",
+          "the colour of the shell",
+          "the vitamins in the egg"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "11",
+        "text": "What does the table at the bottom of the page show?",
+        "options": [
+          "how heavy eggs can be",
+          "how long to cook an egg",
+          "how best to keep eggs fresh",
+          "how to check the age of eggs"
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 5",
+    "questions": [
+      {
+        "number": "12",
+        "text": "How old is this egg?",
+        "options": [
+          "more than 2 weeks old",
+          "about 2 weeks old",
+          "just over 1 week old",
+          "3—6 days old"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "13",
+        "text": "According to the text, the people in the village asked",
+        "options": [
+          "Lightning to stop burning their huts.",
+          "the two sheep to leave the village.",
+          "Thunder to make her son behave properly.",
+          "the king for help with their troubles."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "14",
+        "text": "(an elderly female) The brackets ( ) contain",
+        "options": [
+          "a caption.",
+          "a definition.",
+          "a quotation.",
+          "a description."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 6",
+    "questions": [
+      {
+        "number": "15",
+        "text": "The villagers appear to be",
+        "options": [
+          "lazy.",
+          "violent.",
+          "powerless.",
+          "disorganised."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "16",
+        "text": "The king hoped that by sending Thunder and Lightning away he could",
+        "options": [
+          "put out the fires.",
+          "keep his people safe.",
+          "make the people scared of him.",
+          "avoid seeing the villagers."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "17",
+        "text": "Lightning obeyed the king’s orders by",
+        "options": [
+          "stopping the fires.",
+          "moving from the village.",
+          "listening to his mother.",
+          "controlling his anger."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "18",
+        "text": "In the last paragraph, his angry ‘fire’ refers to",
+        "options": [
+          "bushfires.",
+          "wind and rain.",
+          "burning crops.",
+          "lightning bolts."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 7",
+    "questions": [
+      {
+        "number": "19",
+        "text": "When does Andy Griffiths use a computer for his stories?",
+        "options": [
+          "after he has written something by hand",
+          "as soon as he gets a new idea",
+          "at the end of every day",
+          "when he travels"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "20",
+        "text": "According to the text, why does Andy Griffiths like to write when he is travelling?",
+        "options": [
+          "He has time to write by hand.",
+          "He remembers to bring his journal.",
+          "He gets many ideas from things he sees.",
+          "He focuses better when he is away from home."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "21",
+        "text": "Andy Griffiths says he would like X-ray vision if he could",
+        "options": [
+          "use it for his writing.",
+          "have normal vision sometimes.",
+          "install it on his computer.",
+          "only use it when he travels."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "22",
+        "text": "Andy Griffiths likes Alice in Wonderland because it",
+        "options": [
+          "has lots of funny twists.",
+          "was written by Dr Seuss.",
+          "has some disgusting characters.",
+          "teaches you new things."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 8",
+    "questions": [
+      {
+        "number": "23",
+        "text": "Andy Griffiths thinks that writing for children is",
+        "options": [
+          "tiring.",
+          "enjoyable.",
+          "difficult.",
+          "relaxing."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "24",
+        "text": "Andy Griffiths quotes Dr Seuss in order to",
+        "options": [
+          "give advice.",
+          "tell a story.",
+          "warn people.",
+          "remember a friend."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "25",
+        "text": "What made the low humming noise in paragraph 1?",
+        "options": [
+          "the clap sticks",
+          "a didgeridoo",
+          "a billabong",
+          "the campfire"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "26",
+        "text": "When Goolara said “I’m coming”, why did Kaiya sigh?",
+        "options": [
+          "His mind was focused on the wallabies.",
+          "He didn’t want Goolara to wake everyone up.",
+          "He knew he couldn’t stop Goolara from following.",
+          "He was very tired and had a long way to go."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 9",
+    "questions": [
+      {
+        "number": "27",
+        "text": "When the sound of Goolara’s footsteps faded, Kaiya stopped because he",
+        "options": [
+          "had lost his way.",
+          "was getting out of breath.",
+          "wanted to see where she was going.",
+          "thought he heard a wallaby."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "28",
+        "text": "Why did Kaiya slow down as he neared the billabong?",
+        "options": [
+          "He had to get his spear ready.",
+          "He could smell the sweet grass.",
+          "He could see a wallaby grazing.",
+          "He was concerned about Goolara."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "29",
+        "text": "Which words in the second half of the text tell readers that Kaiya became frightened?",
+        "options": [
+          "crept closer",
+          "hiding behind the trees",
+          "the long grass exploded",
+          "edged backwards"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "30",
+        "text": "The text is mainly about Kaiya’s",
+        "options": [
+          "skill as a hunter.",
+          "role in the gathering.",
+          "relationship with his sister.",
+          "attempt to be independent."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 10",
+    "questions": [
+      {
+        "number": "31",
+        "text": "Write the correct letter in each box to label the different parts of this text. A – Description, B – Contact details, C – Introduction, D – Example of success, E – Title",
+        "options": [],
+        "question_type": "fill_blank"
+      },
+      {
+        "number": "32",
+        "text": "Who wrote this text?",
+        "options": [
+          "the vet",
+          "Candy’s family",
+          "someone at Adopt-a-Dog",
+          "the Evans family"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "33",
+        "text": "The writer tells the reader that Candy is more interesting than",
+        "options": [
+          "a cat.",
+          "a fish.",
+          "a pony.",
+          "a dog."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 11",
+    "questions": [
+      {
+        "number": "34",
+        "text": "Write the numbers 1 to 4 in the boxes to show the order of events in Candy’s life that are given in the text.\n□ Candy is ready for her new home.\n□ Candy was given to Adopt-a-Dog.\n□ Adopt-a-Dog took Candy to the vet.\n□ Candy’s family decided to move overseas.",
+        "options": [],
+        "question_type": "number_in_box"
+      },
+      {
+        "number": "35",
+        "text": "What is used in paragraph 4 to convince the reader to adopt Candy?",
+        "options": [
+          "descriptive words",
+          "humour",
+          "expert opinion",
+          "facts"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "36",
+        "text": "Which sentence from the text shows that Candy would be a very good pet?",
+        "options": [
+          "Candy is now searching for a new family.",
+          "\"He loves to be walked and to play with the kids.\"",
+          "Kids, are you having trouble convincing your parents?",
+          "You would have to be barking mad to miss out."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 12",
+    "questions": [
+      {
+        "number": "P1",
+        "text": "What did Sara plan to do on Saturday morning?",
+        "options": [
+          "homework",
+          "play football",
+          "go horseriding",
+          "make breakfast"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "P2",
+        "text": "Write the numbers 1 to 4 in the boxes to show the order of events in the text.\n□ Sara put on football boots.\n□ Sara went back to bed.\n□ Sara got up early.\n□ Sara put on her shirt.",
+        "options": [],
+        "question_type": "number_in_box"
+      }
+    ]
+  }
+]

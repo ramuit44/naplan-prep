@@ -1,0 +1,492 @@
+[
+  {
+    "title": "Page 1",
+    "questions": []
+  },
+  {
+    "title": "Page 2",
+    "questions": [
+      {
+        "number": "1",
+        "text": "Who wanted to make a castle?",
+        "options": [
+          "Jim",
+          "Ella",
+          "Beth",
+          "Vincent"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "2",
+        "text": "Who didn’t want to go to the creek?",
+        "options": [
+          "Jim",
+          "Ella",
+          "Beth",
+          "Vincent"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "3",
+        "text": "Where is the spaceship?",
+        "options": [
+          "in the park",
+          "at the creek",
+          "in the garden",
+          "inside the house"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "4",
+        "text": "Who didn’t want to do anything outside?",
+        "options": [
+          "Jim",
+          "Ella",
+          "Beth",
+          "Vincent"
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 3",
+    "questions": [
+      {
+        "number": "5",
+        "text": "When did the children go fishing?",
+        "options": [
+          "last week",
+          "yesterday",
+          "this morning",
+          "a long time ago"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "6",
+        "text": "From reading the story, what do we know about the children?",
+        "options": [
+          "They fight a lot.",
+          "They are all brothers.",
+          "They live in the same house.",
+          "They do lots of things together."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "7",
+        "text": "The text tells us that chimpanzees eat",
+        "options": [
+          "tools.",
+          "sticks.",
+          "leaves.",
+          "termites."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "8",
+        "text": "The text tells us This chimp is hooking termites out of the ground with a stick. Which word could you use instead of hooking?",
+        "options": [
+          "hitting",
+          "getting",
+          "cooking",
+          "drinking"
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 4",
+    "questions": [
+      {
+        "number": "9",
+        "text": "What is this chimpanzee doing?",
+        "options": [
+          "looking for termites",
+          "smelling leaves",
+          "drinking water",
+          "washing itself"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "10",
+        "text": "Chimpanzees need juicy fruit. Why does the fruit need to be juicy?",
+        "options": [
+          "to make it taste good",
+          "to give chimps a drink",
+          "to make chimps thirsty",
+          "to make it good for termites"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "11",
+        "text": "The text tells us what chimpanzees can do. This suggests that chimpanzees are",
+        "options": [
+          "clever.",
+          "careful.",
+          "friendly.",
+          "naughty."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "12",
+        "text": "What would be another good title for this text?",
+        "options": [
+          "How chimpanzees play",
+          "How chimpanzees grow",
+          "Where chimpanzees live",
+          "How chimpanzees use tools"
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 5",
+    "questions": [
+      {
+        "number": "13",
+        "text": "The branch fell on the man’s head because",
+        "options": [
+          "the man was careless.",
+          "the elephants landed in the tree.",
+          "the elephants tried to climb the tree.",
+          "the man took away the elephants’ wings."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "14",
+        "text": "The man used his powers of thought to",
+        "options": [
+          "punish the elephants.",
+          "reward the elephants.",
+          "frighten the elephants.",
+          "surprise the elephants."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "15",
+        "text": "Which word best describes Emu in the Australian story?",
+        "options": [
+          "hero",
+          "cheat",
+          "coward",
+          "show-off"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "16",
+        "text": "Why did Kookaburra really set up a competition with Emu?",
+        "options": [
+          "to teach Emu a lesson",
+          "to teach Emu to fly better",
+          "to show off in front of Emu",
+          "to see whose wings were the best"
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 6",
+    "questions": [
+      {
+        "number": "17",
+        "text": "At the end of the Australian story, what happened to Emu’s wings?",
+        "options": [
+          "They shrank.",
+          "They disappeared.",
+          "They grew stronger.",
+          "They became more colourful."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "18",
+        "text": "What is the same about the Indian folktale and the Australian story?",
+        "options": [
+          "Both make fun of silly characters.",
+          "Both show that animals are clever.",
+          "Both tell how simple life used to be.",
+          "Both explain why something is the way it is."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "19",
+        "text": "How does Sandy feel about riding to school?",
+        "options": [
+          "She enjoys it.",
+          "She finds it tiring.",
+          "She finds it boring.",
+          "She thinks it is easy."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "20",
+        "text": "Why did Jayden take part in Ride to School Day?",
+        "options": [
+          "He thought it was a good idea.",
+          "He wanted to get better at riding.",
+          "His parents thought it was a good idea.",
+          "His parents organised Ride to School Day."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 7",
+    "questions": [
+      {
+        "number": "21",
+        "text": "From what Monika writes, she probably rides to school when",
+        "options": [
+          "it is a windy day.",
+          "the weather is fine.",
+          "she has plenty of time.",
+          "she can ride with her friends."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "22",
+        "text": "Andrew writes that he rides to school because",
+        "options": [
+          "it is peaceful.",
+          "it is good exercise.",
+          "he lives close to the school.",
+          "he has just bought a new bike."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "23",
+        "text": "Who rides to school most often?",
+        "options": [
+          "Sandy",
+          "Monika",
+          "Tamara",
+          "Andrew"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "24",
+        "text": "Tamara does not ride to school very often because",
+        "options": [
+          "she does not like her bike.",
+          "she thinks riding is special.",
+          "she thinks riding does not matter.",
+          "she lives too far away from school."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 8",
+    "questions": [
+      {
+        "number": "25",
+        "text": "What is the purpose of the introduction?",
+        "options": [
+          "to describe Binkley School",
+          "to describe each of the students",
+          "to explain what the students wrote about",
+          "to explain how to organise a Ride to School Day"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "26",
+        "text": "The text describes amphibians as animals that",
+        "options": [
+          "do not have lungs.",
+          "cannot swim very well.",
+          "can live on land and in water.",
+          "use their gills to eat and breathe."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "27",
+        "text": "According to the text, the world’s largest amphibian is a",
+        "options": [
+          "frog.",
+          "toad.",
+          "newt.",
+          "salamander."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "28",
+        "text": "One of the differences between frogs and toads is that",
+        "options": [
+          "frogs have drier skins.",
+          "frogs lay eggs in strings.",
+          "frogs develop tails as adults.",
+          "frogs can stay underwater longer."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 9",
+    "questions": [
+      {
+        "number": "29",
+        "text": "Young frogs start to breathe with their heads above water when they",
+        "options": [
+          "develop lungs.",
+          "start eating insects.",
+          "develop internal gills.",
+          "hatch out of their eggs."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "30",
+        "text": "Number the boxes 1, 2, 3 and 4 to show the correct order of stages in a frog’s development.",
+        "options": [],
+        "question_type": "number_in_box"
+      },
+      {
+        "number": "31",
+        "text": "Which part of a tadpole is described as feathery?",
+        "options": [
+          "tail",
+          "gills",
+          "skin",
+          "lungs"
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "32",
+        "text": "The main purpose of the diagram at the end of the text is to",
+        "options": [
+          "describe the life cycle of frogs.",
+          "explain the eating habits of frogs.",
+          "highlight the differences between frogs and toads.",
+          "show the many types of amphibians that live in ponds."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 10",
+    "questions": [
+      {
+        "number": "33",
+        "text": "When the men first noticed something in the water, they thought it was a",
+        "options": [
+          "boat.",
+          "shark.",
+          "dolphin.",
+          "swimmer."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "34",
+        "text": "The word they in the third line refers to the",
+        "options": [
+          "boats.",
+          "dolphins.",
+          "fishermen.",
+          "sea animals."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "35",
+        "text": "Why did the fisherman name the dolphin Opo?",
+        "options": [
+          "The dolphin seemed very young.",
+          "Opo is a word that means orphan.",
+          "Opo is part of the name of a town.",
+          "The dolphin had a friendly manner."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 11",
+    "questions": [
+      {
+        "number": "36",
+        "text": "Opo came up to the fishermen because she was",
+        "options": [
+          "shy.",
+          "wild.",
+          "alone.",
+          "curious."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "37",
+        "text": "By rolling over, Opo was showing that she",
+        "options": [
+          "was saying goodbye.",
+          "liked being touched.",
+          "wanted something to eat.",
+          "wished the men would go away."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "38",
+        "text": "The scientist thought that Opo was probably swimming alone because she",
+        "options": [
+          "preferred to be with humans.",
+          "had been frightened away by sharks.",
+          "had become separated from her mother.",
+          "was more intelligent than other dolphins."
+        ],
+        "question_type": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "title": "Page 12",
+    "questions": [
+      {
+        "number": "P1",
+        "text": "The story takes place on",
+        "options": [
+          "Monday.",
+          "Tuesday.",
+          "Wednesday.",
+          "Thursday.",
+          "Friday."
+        ],
+        "question_type": "multiple_choice"
+      },
+      {
+        "number": "P2",
+        "text": "Number the boxes 1, 2, 3 and 4 to show the order in which Tim dressed.",
+        "options": [],
+        "question_type": "number_in_box"
+      }
+    ]
+  }
+]

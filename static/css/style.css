@@ -1,0 +1,361 @@
+/* Adhrit Naplan App - Kid-friendly styles */
+:root {
+  --bg: #f0f4ff;
+  --card: #ffffff;
+  --primary: #5b7cfa;
+  --primary-dark: #4a6ae8;
+  --accent: #ff9f66;
+  --accent-soft: #ffe8dc;
+  --text: #2d3748;
+  --text-muted: #718096;
+  --success: #48bb78;
+  --radius: 16px;
+  --shadow: 0 4px 20px rgba(91, 124, 250, 0.12);
+  --shadow-hover: 0 8px 28px rgba(91, 124, 250, 0.2);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Nunito', -apple-system, BlinkMacSystemFont, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.site-header {
+  background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+  color: white;
+  padding: 1rem 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+  box-shadow: var(--shadow);
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  text-decoration: none;
+  color: white;
+  font-weight: 800;
+  font-size: 1.35rem;
+}
+
+.logo-icon {
+  font-size: 1.75rem;
+}
+
+.main-nav {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.main-nav a {
+  color: rgba(255,255,255,0.95);
+  text-decoration: none;
+  padding: 0.5rem 0.9rem;
+  border-radius: 10px;
+  font-weight: 600;
+  transition: background 0.2s, color 0.2s;
+}
+
+.main-nav a:hover {
+  background: rgba(255,255,255,0.2);
+  color: white;
+}
+
+.main-content {
+  flex: 1;
+  padding: 1.5rem;
+  max-width: 1000px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+/* PDF viewer (writing + reading magazine): use more width for the iframe */
+.main-content--wide {
+  max-width: 1400px;
+}
+
+.hero {
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+.hero h1 {
+  font-size: 2rem;
+  margin: 0 0 0.5rem;
+  color: var(--text);
+}
+
+.hero p {
+  color: var(--text-muted);
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+.section-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.section-card {
+  background: var(--card);
+  border-radius: var(--radius);
+  padding: 1.5rem;
+  text-decoration: none;
+  color: var(--text);
+  box-shadow: var(--shadow);
+  transition: transform 0.2s, box-shadow 0.2s;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+  border: 2px solid transparent;
+}
+
+.section-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-hover);
+  border-color: var(--primary);
+}
+
+.section-card .icon {
+  font-size: 2.5rem;
+  line-height: 1;
+}
+
+.section-card h2 {
+  margin: 0;
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+.section-card p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  text-align: center;
+}
+
+.page-title {
+  font-size: 1.75rem;
+  margin: 0 0 1rem;
+  color: var(--text);
+}
+
+/* Writing: year groups */
+.year-group {
+  background: var(--card);
+  border-radius: var(--radius);
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1.25rem;
+  box-shadow: var(--shadow);
+}
+
+.year-group h3 {
+  margin: 0 0 1rem;
+  font-size: 1.25rem;
+  color: var(--primary-dark);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.year-badge {
+  background: var(--accent-soft);
+  color: var(--primary-dark);
+  padding: 0.25rem 0.6rem;
+  border-radius: 8px;
+  font-weight: 700;
+}
+
+.assignments-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.assignments-list li {
+  margin-bottom: 0.5rem;
+}
+
+.assignment-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.6rem 1rem;
+  background: var(--bg);
+  border-radius: 10px;
+  color: var(--primary);
+  text-decoration: none;
+  font-weight: 600;
+  transition: background 0.2s, color 0.2s;
+  border: 2px solid transparent;
+}
+
+.assignment-link:hover {
+  background: var(--accent-soft);
+  color: var(--primary-dark);
+  border-color: var(--accent);
+}
+
+.assignment-link .pdf-icon {
+  font-size: 1.2rem;
+}
+
+/* PDF viewer page */
+.viewer-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.viewer-header h1 {
+  margin: 0;
+  font-size: 1.25rem;
+  color: var(--text);
+}
+
+.back-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  background: var(--primary);
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+  font-weight: 600;
+  transition: background 0.2s;
+}
+
+.back-btn:hover {
+  background: var(--primary-dark);
+}
+
+.pdf-container {
+  background: var(--card);
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  height: calc(100vh - 180px);
+  min-height: 500px;
+}
+
+.pdf-container iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+/* Placeholder section */
+.placeholder-box {
+  background: var(--card);
+  border-radius: var(--radius);
+  padding: 3rem 2rem;
+  text-align: center;
+  box-shadow: var(--shadow);
+}
+
+.placeholder-box .icon {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+  opacity: 0.8;
+}
+
+.placeholder-box h2 {
+  margin: 0 0 0.5rem;
+  color: var(--text);
+}
+
+.placeholder-box p {
+  margin: 0;
+  color: var(--text-muted);
+}
+
+.no-options {
+  margin: 0.5rem 0 0;
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+.answer-input-wrap {
+  margin-top: 0.5rem;
+}
+
+.input-label {
+  display: block;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  margin-bottom: 0.35rem;
+}
+
+.answer-input {
+  width: 100%;
+  max-width: 320px;
+  padding: 0.6rem 0.75rem;
+  font-size: 1rem;
+  font-family: inherit;
+  border: 2px solid var(--primary);
+  border-radius: 10px;
+  background: var(--card);
+}
+
+.answer-input-number {
+  max-width: 120px;
+}
+
+.reading-intro {
+  margin: 0 0 1.5rem;
+  color: var(--text-muted);
+}
+
+.viewer-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.site-footer {
+  text-align: center;
+  padding: 1rem;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+
+.site-footer p {
+  margin: 0;
+}
+
+@media (max-width: 600px) {
+  .site-header {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .main-nav {
+    justify-content: center;
+  }
+  .hero h1 {
+    font-size: 1.5rem;
+  }
+  .section-grid {
+    grid-template-columns: 1fr;
+  }
+}

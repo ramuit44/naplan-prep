@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block title %}Writing – Adhrit Naplan App{% endblock %}
+{% block content %}
+  <h1 class="page-title">✍️ Writing</h1>
+  <p style="margin:0 0 1.5rem; color: var(--text-muted);">Click an assignment to open the PDF and practise. Opens in the same page.</p>
+  {% if by_year %}
+    {% for year, assignments in by_year.items() %}
+      <section class="year-group">
+        <h3><span class="year-badge">Year {{ year }}</span></h3>
+        <ul class="assignments-list">
+          {% for a in assignments %}
+            <li>
+              <a href="{{ url_for('pdf_viewer', url=url_for('view_writing_pdf', filename=a.filename), title=a.name|e) }}" class="assignment-link">
+                <span class="pdf-icon">📄</span>
+                {{ a.name }}
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      </section>
+    {% endfor %}
+  {% else %}
+    <div class="placeholder-box">
+      <p>No writing assignments found. Add PDFs to the <code>writing</code> folder.</p>
+    </div>
+  {% endif %}
+{% endblock %}

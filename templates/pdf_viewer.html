@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block title %}{{ title }} – Adhrit Naplan App{% endblock %}
+{% block main_class %}main-content--wide{% endblock %}
+{% block content %}
+  <div class="viewer-header">
+    <h1>{{ title }}</h1>
+    <a href="javascript:history.back()" class="back-btn">← Back</a>
+  </div>
+  <div class="pdf-container">
+    <iframe src="{{ pdf_url }}" title="{{ title }}"></iframe>
+  </div>
+{% endblock %}

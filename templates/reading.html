@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block title %}Reading – Adhrit Naplan App{% endblock %}
+{% block content %}
+  <h1 class="page-title">📖 Reading</h1>
+  <p style="margin:0 0 1.5rem; color: var(--text-muted);">Pick a year. Open the <strong>magazine</strong> to read, then do the <strong>questions</strong> (parsed from the PDF when you open them).</p>
+  {% if by_year %}
+    {% for year, files in by_year.items() %}
+      <section class="year-group">
+        <h3><span class="year-badge">Year {{ year }}</span></h3>
+        <div class="reading-links">
+          {% if files.get('magazine') %}
+            <a href="{{ url_for('pdf_viewer', url=url_for('view_reading_pdf', filename=files.magazine), title='Reading magazine ' ~ year) }}" class="assignment-link">
+              <span class="pdf-icon">📄</span> Magazine
+            </a>
+          {% endif %}
+          {% if files.get('questionnaire') %}
+            <a href="{{ url_for('reading_questions', year=year) }}" class="assignment-link assignment-link-questions">
+              <span class="pdf-icon">📝</span> Questions
+            </a>
+          {% endif %}
+        </div>
+      </section>
+    {% endfor %}
+  {% else %}
+    <div class="placeholder-box">
+      <p>No reading materials found. Add magazine and questionnaire PDFs to the <code>reading</code> folder.</p>
+    </div>
+  {% endif %}
+{% endblock %}
